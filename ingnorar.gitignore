@@ -1,0 +1,21 @@
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+.crash
+*.log
+*.tfvars
+terraform.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Archivos de claves
+*.pem
+*.key
+*.pub
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
