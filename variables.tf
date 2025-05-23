@@ -8,7 +8,7 @@ variable "vpc_cidr" {
 }
 
 variable "subnet_cidr" {
-  default = "10.0.2.0/24"
+  default = "10.0.3.0/24"
 }
 
 variable "allowed_ports" {
